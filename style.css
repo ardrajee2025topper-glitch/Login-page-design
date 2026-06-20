@@ -7,6 +7,11 @@ background: linear-gradient(135deg,#e40303,#ff8c00,#ffed00,#008026,#004dff,#7507
     margin-left: 400px;
     padding: 5px;
     border-width: 8px;
+    margin:0;
+    min-height:100vh;
+    display:flex;
+    justify-content:center
+    align-items:center;
     
 
 
