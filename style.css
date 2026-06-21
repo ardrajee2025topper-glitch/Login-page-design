@@ -8,7 +8,7 @@ background: linear-gradient(135deg,#e40303,#ff8c00,#ffed00,#008026,#004dff,#7507
     margin-left: 400px;
     padding: 3px;
     border-width: 10px;
-    justify-content:center;
+    background-position:center;
     
 
 
@@ -28,7 +28,8 @@ background: linear-gradient(135deg,#e40303,#ff8c00,#ffed00,#008026,#004dff,#7507
 }
 .acc{
 margin-left: 35px;
-width: 400px;
+max-width: 400px;
+width:90%;
 height: 70px;
 background-color:rgba(255,255,255,0.9);
 border: 2px solid #333;
