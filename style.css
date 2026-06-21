@@ -54,22 +54,3 @@ margin-left: 400px;
 padding: 5px;
 
 }
-@media screen and (max-width:60px){
-    body{
-        overflow-x:hidden;
-    }
-    .sticker{
-        width:80px;
-        height:80px;
-        top:10px;
-        left:10px;
-    }
-    .acc[
-    width:80%;
-    margin-left:10%;
-    }
-   .main{
-        width:80%
-        margin-left:10%}
-}
-
