@@ -1,7 +1,7 @@
 body{
 background: linear-gradient(135deg,#e40303,#ff8c00,#ffed00,#008026,#004dff,#750787);
     border-style: groove;
-    width: 600px;
+    width: 400px;
     height: 580px;
     border-color: gray;
     margin-left: 400px;
@@ -45,8 +45,8 @@ opacity: 0.8;
     font-size: 20px;
 }
 .sticker{
-    max-width:100%;
+    max-width:80%;
     heigh:auto;
-    display:block;/*Centers the image properly*/
+    display:block;/*Centers the image properly*/}
 
     
