@@ -1,5 +1,6 @@
 body{
 background: linear-gradient(135deg,#e40303,#ff8c00,#ffed00,#008026,#004dff,#750787);
+    background-repeat:no repeat;
     border-style: groove;
     width: 600px;
     height: 580px;
