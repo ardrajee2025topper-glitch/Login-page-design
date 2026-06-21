@@ -45,12 +45,13 @@ opacity: 0.8;
     font-size: 20px;
 }
 .sticker{
-    position: fixed;
+    position: absolute;
     top: 10px;
     right: 10px;
+    left: auto;
+    margin-left: 0;
     width: 80px;
     height: 80px;
-    z-index: 999;
 }
 
 
